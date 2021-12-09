@@ -155,7 +155,26 @@
 <iframe src="https://player.vimeo.com/video/654541335" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Error Handling in the Frontend
-<iframe src="https://player.vimeo.com/video/654541442" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/654541442" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>\
+
+
+## Quickstart 8
+
+### Set up the Like Button
+<iframe src="https://player.vimeo.com/video/654541784" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Set up the Remove Like Button
+<iframe src="https://player.vimeo.com/video/654541917" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Create the LikesContext to keep track of Likes
+<iframe src="https://player.vimeo.com/video/654541992" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Toggle between Like and Remove Like button based on LikesContext
+<iframe src="https://player.vimeo.com/video/654542166" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Reloading Likes Data after Like  Remove Like button click
+<iframe src="https://player.vimeo.com/video/654542304" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 
 
 ### Markdown
