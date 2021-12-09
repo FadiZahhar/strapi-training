@@ -235,6 +235,21 @@
 <iframe src="https://player.vimeo.com/video/654543963" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
+## THEORY Authentication
+
+### The Extensions System
+<iframe src="https://player.vimeo.com/video/654544076" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Using And Operator with Strapi Endpoint by using custom controller
+<iframe src="https://player.vimeo.com/video/654544307" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Overriding the default controller
+<iframe src="https://player.vimeo.com/video/654544601" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Building a Custom Email Sending Service
+<iframe src="https://player.vimeo.com/video/654544866" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
