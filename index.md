@@ -250,6 +250,24 @@
 <iframe src="https://player.vimeo.com/video/654544866" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
+## THEORY Working With Policies
+
+### Introduction to Policies
+<iframe src="https://player.vimeo.com/video/654545000" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Ensure user is logged in - isLoggedInjs
+<iframe src="https://player.vimeo.com/video/654545143" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Protect Private Routes - alwaysFailjs
+<iframe src="https://player.vimeo.com/video/654545265" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Ensure only you can see your own Content Types - isTargetUserLoggedInjs
+<iframe src="https://player.vimeo.com/video/654545368" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Allow only you to access your own Profile Data - isMyProfilejs
+<iframe src="https://player.vimeo.com/video/654545560" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
