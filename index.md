@@ -51,6 +51,16 @@
 ### Rendering multiple components with Arraymap
 <iframe src="https://player.vimeo.com/video/654351204" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+
+## Quickstart 2 - Connect React
+
+### Working with useState and useEffect Hooks
+<iframe src="https://player.vimeo.com/video/654351740" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Use an Async function in useEffect to load data
+<iframe src="https://player.vimeo.com/video/654352531" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
