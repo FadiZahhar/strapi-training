@@ -209,6 +209,18 @@
 <iframe src="https://player.vimeo.com/video/654543051" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
+## THEORY Authentication
+
+### Users, Login and Registration
+<iframe src="https://player.vimeo.com/video/654543199" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Using Bearer Token to Figure Out Current User Data
+<iframe src="https://player.vimeo.com/video/654543339" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Using Bearer Token for Authenticated Requests
+<iframe src="https://player.vimeo.com/video/654543409" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 
 
 ### Markdown
