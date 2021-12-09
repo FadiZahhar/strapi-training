@@ -110,6 +110,27 @@
 
 
 
+## Quickstart 5
+
+### Set up UserContext to store User Data
+<iframe src="https://player.vimeo.com/video/654429530" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Custom Nav for logged  logged out in users + Login Page
+<iframe src="https://player.vimeo.com/video/654430652" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Build the Login Form
+<iframe src="https://player.vimeo.com/video/654431127" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Handle and Show Errors in the Login Page
+<iframe src="https://player.vimeo.com/video/654431981" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Redirect on Successful Login
+<iframe src="https://player.vimeo.com/video/654432529" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### The Entire Signup Page with UserContext
+<iframe src="https://player.vimeo.com/video/654433125" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
