@@ -200,6 +200,16 @@
 <iframe src="https://player.vimeo.com/video/654542785" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
+## PROJECT Build a Leaderboard 
+
+### Building a Leaderboard with Strapi and jQuery
+<iframe src="https://player.vimeo.com/video/654542865" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Finishing up the leaderboard - JQuery Side
+<iframe src="https://player.vimeo.com/video/654543051" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
 
 ### Markdown
 
