@@ -24,34 +24,32 @@
 ### What to learn next
 <iframe src="https://player.vimeo.com/video/654345307" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-## Quick Start 1 
 
-### The quickstart project teaser
+## Quickstart 1
+
+### The Quickstart Project Teaser
 <iframe src="https://player.vimeo.com/video/654345690" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### Install strapi and react
+### Install Strapi and React
 <iframe src="https://player.vimeo.com/video/654345876" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### setup the post collection
+### Set up the Post Collection Type in Strapi
 <iframe src="https://player.vimeo.com/video/654346292" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### introduction to react and components
+### Introduction to React and Components
 <iframe src="https://player.vimeo.com/video/654346898" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### using hardcoded data in react and components
+### Using Hardcoded Data to Display an Image in the Post Component
 <iframe src="https://player.vimeo.com/video/654348184" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### Improve the look and feel of your post
+### Improve the Look and Feel of your Post
 <iframe src="https://player.vimeo.com/video/654349061" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### Using properties to pass data between react components
+### Using Properties to pass data between React Components
 <iframe src="https://player.vimeo.com/video/654349549" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Rendering multiple components with Arraymap
 <iframe src="https://player.vimeo.com/video/654351204" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-
-
 
 ### Markdown
 
