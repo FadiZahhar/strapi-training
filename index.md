@@ -90,6 +90,26 @@
 ### Error Handling in the Frontend
 <iframe src="https://player.vimeo.com/video/654424737" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+
+## Quickstart 4
+
+### The Single Post Page Component
+<iframe src="https://player.vimeo.com/video/654425538" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Fetching the Single Post data and displaying it
+<iframe src="https://player.vimeo.com/video/654426267" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Loading and Error Indicators in the Single Post Page
+<iframe src="https://player.vimeo.com/video/654427327" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### The Delete Post Request
+<iframe src="https://player.vimeo.com/video/654427914" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### The Update Post Request
+<iframe src="https://player.vimeo.com/video/654428306" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
