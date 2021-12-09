@@ -182,6 +182,18 @@
 <iframe src="https://player.vimeo.com/video/654542391" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
+## THEORY- The Admin Panel 
+
+### Admin Panel Overview [OLD]
+<iframe src="https://player.vimeo.com/video/654542489" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Users and Permissions
+<iframe src="https://player.vimeo.com/video/654542646" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Managing the Admin Panel Users
+<iframe src="https://player.vimeo.com/video/654542718" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 
 ### Markdown
 
