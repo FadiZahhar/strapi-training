@@ -1,8 +1,30 @@
-## Welcome to GitHub Pages
+# Welcome to Strapi Training
 
-You can use the [editor on GitHub](https://github.com/FadiZahhar/strapi-training/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Quick Start
+
+### Strapi Admin
+<iframe src="https://player.vimeo.com/video/654342319" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Build your first content type
+<iframe src="https://player.vimeo.com/video/654342506" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Update your article content type
+<iframe src="https://player.vimeo.com/video/654342735" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Make articles public
+<iframe src="https://player.vimeo.com/video/654343146" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Use a public folder to build a quick block demo
+<iframe src="https://player.vimeo.com/video/654343735" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+## Where to go next
+
+### What to learn next
+<iframe src="https://player.vimeo.com/video/654345307" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 
 ### Markdown
 
