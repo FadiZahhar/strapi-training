@@ -277,6 +277,28 @@
 <iframe src="https://player.vimeo.com/video/654545827" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
+## THEORY File Upload
+
+### The Media Library
+<iframe src="https://player.vimeo.com/video/654545949" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Installing a File Upload Provider
+<iframe src="https://player.vimeo.com/video/654546067" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Simple File Upload
+<iframe src="https://player.vimeo.com/video/654546226" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### File Upload - Connected to a Content Type
+<iframe src="https://player.vimeo.com/video/654546307" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Multiple File Upload
+<iframe src="https://player.vimeo.com/video/654546464" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Remove a File From Gallery
+<iframe src="https://player.vimeo.com/video/654546578" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
