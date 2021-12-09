@@ -61,6 +61,35 @@
 <iframe src="https://player.vimeo.com/video/654352531" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
+## Quickstart 3 - CRUD
+
+### Installing React Router Dom + Recap
+<iframe src="https://player.vimeo.com/video/654352982" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Set up React Router Dom to create Pages
+<iframe src="https://player.vimeo.com/video/654353535" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Create a new Page and set up Navigation
+<iframe src="https://player.vimeo.com/video/654354180" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### The Create Page
+<iframe src="https://player.vimeo.com/video/654354873" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Adding image upload to the Create Form
+<iframe src="https://player.vimeo.com/video/654355500" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Custom Controller to ensure likes are set to 0
+<iframe src="https://player.vimeo.com/video/654356144" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Simple frontend validation
+<iframe src="https://player.vimeo.com/video/654357220" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Backend Validation
+<iframe src="https://player.vimeo.com/video/654357738" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Error Handling in the Frontend
+<iframe src="https://player.vimeo.com/video/654424737" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
