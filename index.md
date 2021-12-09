@@ -131,6 +131,33 @@
 <iframe src="https://player.vimeo.com/video/654433125" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
+## Quickstart 7
+
+### Setting up Postman to build and test the Like Functionality
+<iframe src="https://player.vimeo.com/video/654434609" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Custom Create Controller for Like Creation
+<iframe src="https://player.vimeo.com/video/654435292" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Custom Delete Controller to ensure only you can delete your own Post
+<iframe src="https://player.vimeo.com/video/654436332" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Use Filters to Retrieve the Likes you gave and the Likes your Posts received
+<iframe src="https://player.vimeo.com/video/654436998" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Policy to Secure Retrieving the Likes that I gave
+<iframe src="https://player.vimeo.com/video/654437678" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Route and Policy to Secure retrieving the Likes you received
+<iframe src="https://player.vimeo.com/video/654438359" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Backend Validation
+<iframe src="https://player.vimeo.com/video/654541335" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Error Handling in the Frontend
+<iframe src="https://player.vimeo.com/video/654541442" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
