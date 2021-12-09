@@ -109,7 +109,6 @@
 <iframe src="https://player.vimeo.com/video/654428306" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
-
 ## Quickstart 5
 
 ### Set up UserContext to store User Data
@@ -220,6 +219,14 @@
 ### Using Bearer Token for Authenticated Requests
 <iframe src="https://player.vimeo.com/video/654543409" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+
+## THEORY The Strapi Filesystem
+
+### The Strapi Filesystem
+<iframe src="https://player.vimeo.com/video/654543702" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Controllers VS Services
+<iframe src="https://player.vimeo.com/video/654543872" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
