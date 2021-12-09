@@ -299,6 +299,25 @@
 
 
 
+## COOKBOOK The File Upload 
+
+### Quick intro to the concepts required for file upload
+<iframe src="https://player.vimeo.com/video/654546617" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### File Upload using FormData
+<iframe src="https://player.vimeo.com/video/654546678" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### File Upload With Fetch
+<iframe src="https://player.vimeo.com/video/654546760" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Uploading multiple files
+<iframe src="https://player.vimeo.com/video/654546897" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Uploading a File to a Content Type
+<iframe src="https://player.vimeo.com/video/654547014" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
