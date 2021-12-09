@@ -318,6 +318,17 @@
 
 
 
+## THEORY Automation
+
+### [300] Cron Jobs
+<iframe src="https://player.vimeo.com/video/654551260" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Lifecycle Hooks
+<iframe src="https://player.vimeo.com/video/654551442" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
