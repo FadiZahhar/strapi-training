@@ -338,6 +338,21 @@
 
 
 
+## COOKBOOK Email Sending 
+
+### Sending Email with a custom API endpoint
+<iframe src="https://player.vimeo.com/video/654551835" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Using the POST email endpoint to send emails
+<iframe src="https://player.vimeo.com/video/654552017" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Secure way to send emails with POST email
+<iframe src="https://player.vimeo.com/video/654552102" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+
+
 
 ### Markdown
 
