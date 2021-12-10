@@ -367,6 +367,39 @@
 
 
 
+## COOKBOOK Extra Lessons
+
+### Hide a field from the API response - Private Fields in API
+<iframe src="https://player.vimeo.com/video/654552921" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### The find service (to find entries)
+<iframe src="https://player.vimeo.com/video/654553133" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Advanced Services Usage
+<iframe src="https://player.vimeo.com/video/654553224" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Logging in Strapi (instead of consolelog)
+<iframe src="https://player.vimeo.com/video/654553382" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Using the functions folder for reusable functions
+<iframe src="https://player.vimeo.com/video/654553461" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Migrating data from one version of strapi to another
+<iframe src="https://player.vimeo.com/video/654553540" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### [NEW] Getting All of the Users info Using me and users
+<iframe src="https://player.vimeo.com/video/654553752" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### [NEW] Use Strapi with Docker
+<iframe src="https://player.vimeo.com/video/654553883" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
 
 
 
