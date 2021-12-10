@@ -351,6 +351,23 @@
 
 
 
+## COOKBOOK Deploying Strapi
+
+### Introduction to the Development to Heroku
+<iframe src="https://player.vimeo.com/video/654552203" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Setting up the Heroku Side, Datase, Remote, Credentials
+<iframe src="https://player.vimeo.com/video/654552263" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Setting up the Strapi side, deploying to Heroku
+<iframe src="https://player.vimeo.com/video/654552603" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Things to do after deployment
+<iframe src="https://player.vimeo.com/video/654552818" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+
 
 
 
