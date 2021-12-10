@@ -328,6 +328,16 @@
 
 
 
+## THEORY Email Sending
+
+### Sending Emails
+<iframe src="https://player.vimeo.com/video/654551569" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Using Email Providers
+<iframe src="https://player.vimeo.com/video/654551676" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
 
 ### Markdown
 
