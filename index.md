@@ -395,6 +395,29 @@
 
 
 
+## EXTRA - Additional Topics
+
+### Upgrading from Alpha to Beta
+<iframe src="https://player.vimeo.com/video/654554076" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Using Components and Dynamic Zones
+<iframe src="https://player.vimeo.com/video/654554367" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Working with Components Programmatically
+<iframe src="https://player.vimeo.com/video/654554661" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Single Type and UID field - New with Strapi beta19
+<iframe src="https://player.vimeo.com/video/654555298" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### [PRE strapibeta20] Installing a File Upload Provider
+<iframe src="https://player.vimeo.com/video/654555410" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### [NEW] Using Webhooks
+<iframe src="https://player.vimeo.com/video/654555549" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### [NEW] Working with the Database ORM Layer
+<iframe src="https://player.vimeo.com/video/654555736" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 
 
 
