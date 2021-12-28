@@ -6,6 +6,8 @@
 ### Strapi Admin
 <iframe src="https://player.vimeo.com/video/654342319" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+<p></p>
+
 ### Build your first content type
 <iframe src="https://player.vimeo.com/video/654342506" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
